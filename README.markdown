@@ -21,10 +21,12 @@ the next time you run it.
 Requirements:
 -------------
 These should all be on your OSX system already.
+
 - python
 - unix commands: sed, tr
 
 You need these:
+
 - Growl
 
 Known Bugs:
