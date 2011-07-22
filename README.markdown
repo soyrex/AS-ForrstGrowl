@@ -1,7 +1,6 @@
 Forrst Growl Notifier
 =====================
 Written by: Alex Holt <alex@soyrex.com>
-License: Do what you want :)
 
 General:
 --------
@@ -18,3 +17,7 @@ These should all be on your OSX system already.
 You need these:
 - Growl
 
+Known Bugs:
+-----------
+- You can't seem to quit it. use CMD-alt-ESC to Force Quit.
+- Anything you report here: https://github.com/soyrex/AS-ForrstGrowl/issues
